@@ -8,6 +8,7 @@ sites:
     icon: https://falles.app/favicon.png
   - name: API
     url: https://api.falles.app/health
+    icon: https://falles.app/favicon.png
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -16,7 +17,7 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://falles.app/favicon.png
   name: Monitor de estado falles.app
-  introTitle: "**falles.app** es tu aplicación de gestión de asociaciones falleras."
+  introTitle: "**falles.app** es tu aplicación de gestión de asociaciones falleras"
   introMessage: Esta página muestra el estado de los diferentes servicios que conforman falles.app
   navbar:
     - title: Estado
