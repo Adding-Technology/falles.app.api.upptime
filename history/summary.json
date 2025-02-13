@@ -22,7 +22,7 @@
     "url": "https://api.falles.app/health",
     "icon": "https://falles.app/favicon.png",
     "slug": "api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -34,6 +34,7 @@
     "timeMonth": 527,
     "timeYear": 529,
     "dailyMinutesDown": {
+      "2025-02-13": 0,
       "2024-12-16": 18,
       "2024-11-28": 8,
       "2024-11-25": 28
