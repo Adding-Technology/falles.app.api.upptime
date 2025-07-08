@@ -6,18 +6,16 @@
     "slug": "landing-page",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.58%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 209,
-    "timeDay": 161,
-    "timeWeek": 199,
-    "timeMonth": 294,
-    "timeYear": 209,
-    "dailyMinutesDown": {
-      "2025-07-07": 6
-    }
+    "time": 211,
+    "timeDay": 316,
+    "timeWeek": 260,
+    "timeMonth": 311,
+    "timeYear": 211,
+    "dailyMinutesDown": {}
   },
   {
     "name": "API",
@@ -31,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 549,
-    "timeDay": 600,
-    "timeWeek": 550,
-    "timeMonth": 578,
+    "timeDay": 593,
+    "timeWeek": 554,
+    "timeMonth": 575,
     "timeYear": 549,
     "dailyMinutesDown": {
       "2024-12-16": 18,
