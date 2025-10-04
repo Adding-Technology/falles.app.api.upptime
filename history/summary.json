@@ -4,18 +4,20 @@
     "url": "https://falles.app",
     "icon": "https://falles.app/favicon.png",
     "slug": "landing-page",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 224,
-    "timeDay": 264,
-    "timeWeek": 258,
-    "timeMonth": 282,
-    "timeYear": 224,
-    "dailyMinutesDown": {}
+    "time": 240,
+    "timeDay": 3054,
+    "timeWeek": 956,
+    "timeMonth": 461,
+    "timeYear": 240,
+    "dailyMinutesDown": {
+      "2025-10-04": 0
+    }
   },
   {
     "name": "API",
